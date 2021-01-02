@@ -1,1 +1,0 @@
-Base, shared Vue components used throughout. These components are often used as building blocks for specific applets.
